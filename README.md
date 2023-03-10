@@ -1,0 +1,2 @@
+# Dinamicos2
+SEMESTRE UCO-2023-1
